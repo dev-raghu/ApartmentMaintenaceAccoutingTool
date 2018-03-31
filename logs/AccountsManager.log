@@ -1,0 +1,73 @@
+[INFO]: 2018-03-31 12:44:59,481 : Connected to db [PrakruthiLakeView.db]
+[INFO]: 2018-03-31 12:44:59,482 : Cursor created for connection to db [PrakruthiLakeView.db]
+[INFO]: 2018-03-31 12:44:59,542 : Created table maintenance
+[INFO]: 2018-03-31 12:44:59,568 : Created table reference
+[INFO]: 2018-03-31 12:44:59,571 : INITIAL USER SETTINGS: {"flatNumbers": ["001", "002", "003", "004", "005", "006", "007", "008", "009", "010", "101", "102", "103", "104", "105", "106", "107", "108", "109", "110", "201", "202", "203", "204", "205", "206", "207", "208", "209", "210", "301", "302", "303", "304", "305", "306", "307", "308", "309", "310", "401", "402", "403", "404", "405", "406", "407", "408", "409", "410"], "defaultOccupantNames": ["Bharati", "Mahesh S", "Bharat", "Sukumar", "Pushpa Lata", "Ananda R.H", "Sunil", "K.H. Hulamani", "Jagadish Joshi", "Naveen", "Yogesh G", "R.A.Gowda", "Savita S.L", "Raghavendra", "Milan", "Jagan", "Venkatachalam", "Charankumar", "Venkata Rao", "Nagaraj Joshi", "sridhar", "Umadevi", "Naghabhushan/Tejas", "Shayam prasad", "Manjula.S", "Nagaraj shastri", "Nagasena", "Murlikumar sunita", "Muthukrishna", "Rohit", "Revathi", "Srinivas.H", "N.K.Purohit", "Santosh/Bhavana", "Dr.N.Adiga", "Sanjay gale", "Jayashree", "Pushpa Mumbai", "Rajeshwari Patil", "R.Shivakumar", "Shilpa", "Babu", "C.Gopinath", "Sita kumar", "Prashant", "Raghavendra", "Vasanthamma", "Haridas/Shankar", "Ananth N", "Kunal Gupta"], "date": "2018-04-01", "amtPaid": 0.0, "amtDue": 1800.0, "currentMaintenanceAmt": 1800, "currentLateFee": 250, "currentLastDate": 15, "defaultPaymentMode": "Cash"}
+[INFO]: 2018-03-31 12:44:59,576 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,576 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,577 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,577 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,578 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,579 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,579 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,580 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,580 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,581 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,581 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,582 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,582 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,582 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,583 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,584 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,587 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,588 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,590 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,590 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,591 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,592 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,592 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,593 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,593 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,594 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,594 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,595 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,596 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,596 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,597 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,597 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,598 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,598 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,599 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,600 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,600 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,602 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,603 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,604 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,605 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,605 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,607 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,608 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,608 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,609 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,610 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,620 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,621 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,621 : Inserted into table maintenance
+[INFO]: 2018-03-31 12:44:59,622 : Inserted into table reference
+[INFO]: 2018-03-31 12:44:59,676 : Transactions committed reference
+[INFO]: 2018-03-31 12:44:59,680 : Connection to db [PrakruthiLakeView.db] closed
+[INFO]: 2018-03-31 12:52:54,623 : Connected to db [PrakruthiLakeView.db]
+[INFO]: 2018-03-31 12:52:54,624 : Cursor created for connection to db [PrakruthiLakeView.db]
+[INFO]: 2018-03-31 12:52:54,625 : Fetching Data from table maintenance with key value  None
+[INFO]: 2018-03-31 12:52:57,160 : Connected to db [PrakruthiLakeView.db]
+[INFO]: 2018-03-31 12:52:57,160 : Cursor created for connection to db [PrakruthiLakeView.db]
+[INFO]: 2018-03-31 12:52:57,175 : Fetching Data from table maintenance with key value  ('009',)
+[INFO]: 2018-03-31 12:52:57,175 : Selected Flat Details: ('009', 'Jagadish Joshi', '2018-04-01', 0.0, 1800.0, 'Cash')
+[INFO]: 2018-03-31 12:53:03,417 : INITIAL USER SETTINGS: {"flatNumbers": ["001", "002", "003", "004", "005", "006", "007", "008", "009", "010", "101", "102", "103", "104", "105", "106", "107", "108", "109", "110", "201", "202", "203", "204", "205", "206", "207", "208", "209", "210", "301", "302", "303", "304", "305", "306", "307", "308", "309", "310", "401", "402", "403", "404", "405", "406", "407", "408", "409", "410"], "defaultOccupantNames": ["Bharati", "Mahesh S", "Bharat", "Sukumar", "Pushpa Lata", "Ananda R.H", "Sunil", "K.H. Hulamani", "Jagadish Joshi", "Naveen", "Yogesh G", "R.A.Gowda", "Savita S.L", "Raghavendra", "Milan", "Jagan", "Venkatachalam", "Charankumar", "Venkata Rao", "Nagaraj Joshi", "sridhar", "Umadevi", "Naghabhushan/Tejas", "Shayam prasad", "Manjula.S", "Nagaraj shastri", "Nagasena", "Murlikumar sunita", "Muthukrishna", "Rohit", "Revathi", "Srinivas.H", "N.K.Purohit", "Santosh/Bhavana", "Dr.N.Adiga", "Sanjay gale", "Jayashree", "Pushpa Mumbai", "Rajeshwari Patil", "R.Shivakumar", "Shilpa", "Babu", "C.Gopinath", "Sita kumar", "Prashant", "Raghavendra", "Vasanthamma", "Haridas/Shankar", "Ananth N", "Kunal Gupta"], "date": "2018-04-01", "amtPaid": 0.0, "amtDue": 1800.0, "currentMaintenanceAmt": 1800, "currentLateFee": 250, "currentLastDate": 15, "defaultPaymentMode": "Cash"}
+[INFO]: 2018-03-31 12:53:03,420 : Connected to db [PrakruthiLakeView.db]
+[INFO]: 2018-03-31 12:53:03,421 : Cursor created for connection to db [PrakruthiLakeView.db]
+[INFO]: 2018-03-31 12:53:03,430 : Updated table maintenance
+[INFO]: 2018-03-31 12:53:03,488 : Connected to db [PrakruthiLakeView.db]
+[INFO]: 2018-03-31 12:53:03,488 : Cursor created for connection to db [PrakruthiLakeView.db]
+[INFO]: 2018-03-31 12:53:03,489 : Fetching Data from table maintenance with key value  None
+[INFO]: 2018-03-31 12:53:03,496 : Dialog Execution is done....Hurray !! Re-draw table
